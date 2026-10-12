@@ -14,10 +14,10 @@ opens http://localhost:8080
 Inside src/ 
 
     File           What it does
---> `main.jsx`       Starts React and loads the CSS
--->`App.jsx`       Chooses which screen to show (login / register / dashboard
--->`Login.jsx`     Login screen (demo, any email + password works)
--->`Register.jsx`  Register screen (demo, saved in the browser only)
--->`Dashboard.jsx` Main page: upload resume, job description, call backend 
--->`Results.jsx`   Shows score, matched skills, missing skills           
--->`style.css`     All the styling                                       
+--> `main.jsx`       Starts React and loads the CSS <br>
+-->`App.jsx`       Chooses which screen to show (login / register / dashboard <br>
+-->`Login.jsx`     Login screen (demo, any email + password works) <br>
+-->`Register.jsx`  Register screen (demo, saved in the browser only)<br>
+-->`Dashboard.jsx` Main page: upload resume, job description, call backend <br>
+-->`Results.jsx`   Shows score, matched skills, missing skills       
+-->`style.css`     All the styling<br>
