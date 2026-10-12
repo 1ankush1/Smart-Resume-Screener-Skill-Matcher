@@ -22,5 +22,5 @@ Inside src/ <br>
 -->`Login.jsx`     Login screen (demo, any email + password works) <br>
 -->`Register.jsx`  Register screen (demo, saved in the browser only)<br>
 -->`Dashboard.jsx` Main page: upload resume, job description, call backend <br>
--->`Results.jsx`   Shows score, matched skills, missing skills     <br>      
+-->`Results.jsx`   Shows score, matched skills, missing skills       
 -->`style.css`     All the styling<br>
