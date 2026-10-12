@@ -14,7 +14,7 @@ opens http://localhost:8080
 Inside src/ 
 
     File           What it does
---> main.jsx       Starts React and loads the CSS
+--> `main.jsx`       Starts React and loads the CSS
 -->`App.jsx`       Chooses which screen to show (login / register / dashboard
 -->`Login.jsx`     Login screen (demo, any email + password works)
 -->`Register.jsx`  Register screen (demo, saved in the browser only)
